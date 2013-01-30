@@ -37,9 +37,7 @@ Si disponemos de un servicio de hosting y queremos ver de forma rápida qué ver
 
   
     <?php
-        
         phpinfo();
-        
     ?>
   
 
