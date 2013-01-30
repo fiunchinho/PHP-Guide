@@ -36,9 +36,11 @@ Es muy recomendable fijarse en la versión de PHP que nuestro hosting o servidor
 Si disponemos de un servicio de hosting y queremos ver de forma rápida qué versión de PHP tenemos instalada, bastaría con crear un archivo con extensión ".php", por ejemplo info.php, con el siguiente código en su interior:
 
   
-  <?php
-    phpinfo();
-  ?>
+    <?php
+        
+        phpinfo();
+        
+    ?>
   
 
 Con este sencillo código podremos acceder a nuestro sitio web mediante http://nuestro-dominio.com/info.php y ver la versión de PHP y las extensiones instaladas, además de visualizar las variables de entorno de nuestro servidor, que explicaremos más adelante.
