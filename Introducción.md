@@ -5,9 +5,14 @@ PHP es un lenguaje de servidor creado en por el programador canadiense Rasmus Le
 El objetivo principal de este lenguaje es facilitar la creación de sitios web de forma rápida y sencilla.
 PHP además nos permite crear potentes scripts que funcionan en entorno de línea de comandos e incluso aplicaciones de escritorio, aunque para entornos de escritorio contamos con lenguajes y entornos de programación más adecuadas que PHP.
 
+Debido a su sintaxis, a que es un lenguaje no tipado y que sufre de un catálogo de funciones que no siempre se usar de forma uniforme, PHP ha sido muy criticado por programadores de otros lenguajes como Ruby, Java o Python.
+Lo cierto es que PHP es un lenguaje que nos da mucha libertad y rapidez para crear sitios y aplicaciones web, y cómo pudimos aprender en la película Spiderman de Sam Raimi: "un gran poder conlleva una gran responsabilidad".
+Al ser el lenguaje más utilizado para programar sitios web, después claro está de html y javascript, muchos programadores no asumieron de forma seria su responsabilidad contribuyendo a que PHP adquiriese entre algunos círculos de programadores una fama inmerecida.
+Por suerte, PHP va contando con cada vez mejores programadores, en parte gracias a la aparición de Frameworks de desarrollo como Symfony2 y Zend Framework.
 
-Requisitos e instalación
-========================
+
+## Requisitos e instalación
+
 Para que php funcione en un ordenador o servidor, debe estar instalado en el mismo.
 PHP dispone instalaoores para Windows, MacOSX y Linus, además de otros sistemas tipo UNIX como AS/400.
 Consulte el capítulo dedicado a la instalación para conocer cómo disponer de php en su ordenador.
