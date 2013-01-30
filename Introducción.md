@@ -1,5 +1,5 @@
 Introducción
-------------
+============
 
 PHP es un lenguaje de servidor creado en por el programador canadiense Rasmus Lerdorf.
 El objetivo principal de este lenguaje es facilitar la creación de sitios web de forma rápida y sencilla.
@@ -47,8 +47,11 @@ Con este sencillo código podremos acceder a nuestro sitio web mediante http://n
 ### Extensiones
 
 Las extensiones son librerías que se instalan en el servidor y que dotan de funcionalidad extra a PHP, funcionalidad que podemos utilizar desde el código de nuestro sitio web.
+
 Un ejemplo de extensión que suele necesitar instalarse es PDO, una extensión que nos permite trabajar con las bases de datos más conocidas y utilizadas.
 Veremos cómo utilizar e instalar esta extensión en más detalle en el capítulo dedicado a bases de datos.
+
+
 
 
 
