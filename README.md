@@ -3,7 +3,7 @@ Guía de iniciación a PHP para no programadores
 
 Autor: Asier Marqués <asiermarques@gmail.com>
 
-Inspirada por el artículo para empresarios de Internet ["Yes, learn basic programming" de Derek Sivers](http://sivers.org/prog), esta guía tiene como objetivo ayudar a iniciarse en el uso del lenguaje de programación php a personas que están involucradas en el desarrollo de proyectos web, pero que no son necesariamente programaadores.
+Inspirada por el artículo para empresarios de Internet ["Yes, learn basic programming" de Derek Sivers](http://sivers.org/prog), esta guía tiene como objetivo ayudar a iniciarse en el uso del lenguaje de programación php a personas que están involucradas en el desarrollo de proyectos web, pero que no son necesariamente programadores.
 
 Principalmente esta guía puede ser útil a:
 * Diseñadores
