@@ -5,10 +5,15 @@ PHP es un lenguaje de servidor creado en por el programador canadiense Rasmus Le
 El objetivo principal de este lenguaje es facilitar la creación de sitios web de forma rápida y sencilla.
 PHP además nos permite crear potentes scripts que funcionan en entorno de línea de comandos e incluso aplicaciones de escritorio, aunque para entornos de escritorio contamos con lenguajes y entornos de programación más adecuadas que PHP.
 
+
 Debido a su sintaxis, a que es un lenguaje no tipado y que sufre de un catálogo de funciones que no siempre se usar de forma uniforme, PHP ha sido muy criticado por programadores de otros lenguajes como Ruby, Java o Python.
+
 Lo cierto es que PHP es un lenguaje que nos da mucha libertad y rapidez para crear sitios y aplicaciones web, y cómo pudimos aprender en la película Spiderman de Sam Raimi: "un gran poder conlleva una gran responsabilidad".
+
 Al ser el lenguaje más utilizado para programar sitios web, después claro está de html y javascript, muchos programadores no asumieron de forma seria su responsabilidad contribuyendo a que PHP adquiriese entre algunos círculos de programadores una fama inmerecida.
+
 Por suerte, PHP va contando con cada vez mejores programadores, en parte gracias a la aparición de Frameworks de desarrollo como Symfony2 y Zend Framework.
+
 
 
 ## Requisitos e instalación
@@ -30,11 +35,11 @@ Es muy recomendable fijarse en la versión de PHP que nuestro hosting o servidor
 
 Si disponemos de un servicio de hosting y queremos ver de forma rápida qué versión de PHP tenemos instalada, bastaría con crear un archivo con extensión ".php", por ejemplo info.php, con el siguiente código en su interior:
 
-  <?php
   
+  <?php
     phpinfo();
-    
   ?>
+  
 
 Con este sencillo código podremos acceder a nuestro sitio web mediante http://nuestro-dominio.com/info.php y ver la versión de PHP y las extensiones instaladas, además de visualizar las variables de entorno de nuestro servidor, que explicaremos más adelante.
 
